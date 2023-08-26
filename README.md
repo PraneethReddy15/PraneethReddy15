@@ -1,4 +1,4 @@
-![logo](https://github.com/PraneethReddy15/logo/blob/main/logo2.gif))
+![logo](https://github.com/PraneethReddy15/logo/blob/main/logo2.gif)
 <h1 align="center">Hi 👋, I'm Praneeth reddy</h1>
 <h3 align="center">A spirited student on a journey of knowledge and innovation.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
