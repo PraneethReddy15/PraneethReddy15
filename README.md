@@ -17,12 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ksaipraneeth10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ksaipraneeth10" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/k-sai-praneeth-reddy-509525233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k sai praneeth reddy" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/ksaipraneethreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="k sai praneeth reddy" height="30" width="40" /></a>
-<a href="https://fb.com/ksaipraneethreddy123@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ksaipraneethreddy123@gmail.com" height="30" width="40" /></a>
-<a href="https://instagram.com/k_sai_praneeth_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_sai_praneeth_reddy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/k_sai_praneeth_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k_sai_praneeth_reddy" height="30" width="40" /></a>
+<a href="https://twitter.com/ksaipraneeth10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ksaipraneeth10" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/k-sai-praneeth-reddy-509525233/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k sai praneeth reddy" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ksaipraneethreddy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="k sai praneeth reddy" height="30" width="40" /></a>
+<a href="https://fb.com/ksaipraneethreddy123@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ksaipraneethreddy123@gmail.com" height="30" width="40" /></a>
+<a href="https://instagram.com/k_sai_praneeth_reddy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_sai_praneeth_reddy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/k_sai_praneeth_reddy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k_sai_praneeth_reddy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PraneethReddy15&show_icons=true&locale=en" alt="praneethreddy15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PraneethReddy15&" alt="praneethreddy15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=PraneethReddy15&" alt="PraneethReddy15" /></p>
