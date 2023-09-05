@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm K.Sai Praneeth Reddy</h1>
 <h3 align="center">A spirited student on a journey of knowledge and innovation.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethreddy15&label=Profile%20views&color=0e75b6&style=flat" alt="praneethreddy15" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praneethreddy15" alt="praneethreddy15" /></a> </p>
+<p align="left"> <a href="https://github.com/PraneethReddy15/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PraneethReddy15" alt="praneethreddy15" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/ksaipraneeth10" target="blank"><img src="https://img.shields.io/twitter/follow/ksaipraneeth10?logo=twitter&style=for-the-badge" alt="ksaipraneeth10" /></a> </p>
