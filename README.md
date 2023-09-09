@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **ksaipraneethreddy123@gmail.com**
 
-- **Fun fact:**  <br>I love creating content.
-
 - ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ksaipraneeth10) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k_sai_praneeth_reddy) 
