@@ -1,6 +1,6 @@
 ![logo](https://github.com/PraneethReddy15/logo/blob/main/logo2.gif)
 <h1 align="center">Hi 👋, I'm K Sai Praneeth Reddy</h1>
-<h3 align="center">A spirited student on a journey of knowledge and innovation.</h3>
+<h3 align="center">Exploring the Boundaries of Software Development.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethreddy15&label=Profile%20views&color=0e75b6&style=flat" alt="praneethreddy15" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
