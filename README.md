@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Web Technologies**
 
-- 🌱 I’m currently learning **JAVA,CSS,JAVASCRIPT**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **Android Development ,Web Technologies**
 
