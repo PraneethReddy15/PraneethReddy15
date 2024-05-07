@@ -3,10 +3,10 @@
 <h3 align="center">Exploring the Boundaries of Software Development.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethreddy15&label=Profile%20views&color=0e75b6&style=flat" alt="praneethreddy15" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/PraneethTweetz" target="blank"><img src="https://img.shields.io/twitter/follow/PraneethTweetz?logo=twitter&style=for-the-badge" alt="PraneethTweetz" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 - ## 💫 About Me:
 
 - 🔭 I’m currently working on **Web Technologies**
