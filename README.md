@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/PraneethTweetz" target="blank"><img src="https://img.shields.io/twitter/follow/PraneethTweetz?logo=twitter&style=for-the-badge" alt="PraneethTweetz" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 ## 💫 About Me:
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🔭 I’m currently working on **Web Technologies**
 
