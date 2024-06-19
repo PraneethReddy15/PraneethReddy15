@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethreddy15&label=Profile%20views&color=0e75b6&style=flat" alt="praneethreddy15" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/PraneethTweetz" target="blank"><img src="https://img.shields.io/twitter/follow/PraneethTweetz?logo=twitter&style=for-the-badge" alt="PraneethTweetz" /></a> </p>
+<p align="left"> <a href="https://instagram.com/k_sai_praneeth_reddy" target="_blank"><img src="https://img.shields.io/instagram/follow/k_sai_praneeth_reddy?logo=instagram&style=for-the-badge" alt="k_sai_praneeth_reddy" /></a> </p>
 
 
 ## 💫 About Me:
