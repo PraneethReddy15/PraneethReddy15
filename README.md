@@ -1,4 +1,4 @@
-![logo](https://github.com/PraneethReddy15/logo/blob/main/logo2.gif)
+![logo](https://github.com/PraneethReddy15/PraneethReddy15/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Sai Praneeth Reddy Kaithi</h1>
 <h3 align="center">Exploring the Boundaries of Software Development.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethreddy15&label=Profile%20views&color=0e75b6&style=flat" alt="praneethreddy15" /> </p>
