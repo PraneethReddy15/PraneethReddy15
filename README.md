@@ -7,9 +7,9 @@
 ## 💫 About Me:
 <img align="right" alt="Coding" width="250" src="https://github.com/PraneethReddy15/PraneethReddy15/blob/main/coding.gif">
 
-- 🔭 I’m currently working on **Web Technologies**
+- 🔭 I’m currently working on **LoRa Technology**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on **Android Development ,Web Technologies**
 
