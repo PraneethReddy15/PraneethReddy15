@@ -24,12 +24,12 @@
   <a href="https://www.linkedin.com/in/k-sai-praneeth-reddy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/k_sai_praneeth_reddy/">
+  <!-- <a href="https://www.instagram.com/k_sai_praneeth_reddy/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/PraneethTweetz">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 
 </div> 
 
