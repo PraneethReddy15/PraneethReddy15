@@ -20,19 +20,20 @@ Software engineer with 2+ years of experience building Java backend services and
 - 🎓 **Teaching:** Graduate Teaching Assistant for Artificial Intelligence at UNC Charlotte
 - 💼 **Looking for:** full-time Software Engineer and AI Engineer roles starting early 2027 (open to relocation)
 - 📫 **Reach me:** praneethreddykaithi@gmail.com
-
 <br clear="right"/>
+
 ## Featured work
-
-<!-- Add each repo link after the name, e.g. [JEE AI](https://github.com/PraneethReddy15/<repo-name>) -->
-
-**JEE AI: RAG tutoring platform**
+**[JEE AI: RAG tutoring platform](https://jeeai-monorepo-roan.vercel.app/)** · [🔗 Live demo](https://jeeai-monorepo-roan.vercel.app/)
 A chatbot that answers JEE Maths/Physics/Chemistry questions from my own lecture transcripts. Hybrid retrieval with LLM query rewriting reaches 94.7% Recall@5 on a 38-question eval set, with parent-child chunking, a Redis semantic cache, LangGraph clarification flows, and answers streamed over SSE.
 `React` `FastAPI` `Redis` `ChromaDB` `LangGraph` `Groq`
 
 **On-device real-time avatar generation (graduate research)**
 Profiling ViBES inference on NVIDIA GPUs and benchmarking quantization techniques so the model can run on-device. 8-bit quantization cut VRAM use by about 20%.
 `PyTorch` `Hugging Face` `CUDA`
+
+**[RAW Lab website](https://rawlab.org)** · [🔗 Live site](https://rawlab.org)
+Designed and built the website for the RAW Lab at UNC Charlotte, a computational and synthetic virology lab: <what you built>.
+`<tech>` `<tech>` `<tech>`
 
 **Publication:** *Thyroid Disease Prediction Using Machine Learning*, MIJARCSE, Vol. 10, Special Issue 1, pp. 216–228 (Dec 2024)
 
