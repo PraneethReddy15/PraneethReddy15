@@ -1,4 +1,4 @@
-<a href="https://praneethreddy.vercel.app/">![banner](https://github.com/PraneethReddy15/PraneethReddy15/blob/main/newBanner.png)</a>
+<a href="https://praneethreddy.vercel.app/"><img src="https://raw.githubusercontent.com/PraneethReddy15/PraneethReddy15/main/newBanner.png?v=2" alt="banner" width="100%"></a>
 
 <h1 align="center">Hi, I'm Sai Praneeth Reddy Kaithi 👋</h1>
 <h3 align="center">Software & AI engineer · M.S. Computer Science @ UNC Charlotte (Dec 2026)</h3>
@@ -12,6 +12,8 @@
 
 ## About me
 
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/PraneethReddy15/PraneethReddy15/main/coding.gif">
+
 Software engineer with 2+ years of experience building Java backend services and distributed systems on AWS. Developed SQS queue workers, event-driven pipelines with Kinesis Data Firehose and Lambda, and rate limiting for internal service-to-service APIs. Supported a zero-downtime cross-region migration and builds LLM/RAG applications with Python and FastAPI.
 
 - 🔭 **Working on:** model quantization for on-device avatar generation, and JEE AI, a RAG tutor for Maths, Physics and Chemistry
@@ -19,6 +21,7 @@ Software engineer with 2+ years of experience building Java backend services and
 - 💼 **Looking for:** full-time Software Engineer and AI Engineer roles starting early 2027 (open to relocation)
 - 📫 **Reach me:** praneethreddykaithi@gmail.com
 
+<br clear="right"/>
 ## Featured work
 
 <!-- Add each repo link after the name, e.g. [JEE AI](https://github.com/PraneethReddy15/<repo-name>) -->
